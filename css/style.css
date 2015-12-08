@@ -1,0 +1,134 @@
+.list p{
+	font-size: 20px;
+	font-family: Helvetica, sans-serif;
+
+}
+
+
+#des{
+	font-size: 20px;
+	padding-bottom: 20px;
+}
+
+#score{
+	font-size: 20px;
+}
+#remind{
+	font: bold;
+	font-size: 25px;
+}
+#listnamemid{
+	margin-left: 250px;
+	font-size: 30px;
+}
+
+.list{
+	margin-left: 22%;
+	width: 700px;
+}
+.search{
+	float: right;
+
+}
+.myButton {
+	-moz-box-shadow: 0px 2px 2px 2px #9fb4f2;
+	-webkit-box-shadow: 0px 2px 2px 2px #9fb4f2;
+	box-shadow: 0px 2px 2px 2px #9fb4f2;
+	background-color:#7892c2;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:10px;
+	border:0px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:19px;
+	padding:12px 37px;
+	text-decoration:none;
+}
+.myButton:hover {
+	color: #7892c2;
+	background-color:white;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.welcome{
+	font-size: 25px;
+	font-family: 'Dancing Script', cursive;
+	text-align: center;
+	height: 200px;
+	float: left;
+}
+
+.delete{
+	margin-left: 60%;
+	height: 100px;
+}
+
+.createlist{
+	margin-left: 40%;
+	padding-top: 200px;
+}
+.home{
+	float: right;
+}
+.poster img{
+	height: 400px;
+
+}
+.poster {
+	border-bottom: 1px solid black;
+}
+.addList{
+	margin-left: 10px;
+	margin-top: 20px;
+}
+.searchMovie{
+	margin-left: 40%;
+}
+
+.searchResult{
+	width: 700px;
+	margin-left: 22%;
+	font-family: Helvetica, sans-serif;
+}
+
+.Movieinclude{
+	width: 700px;
+	position: center;
+}
+.listInfo{
+	margin-left: 22%;
+	font-family: Helvetica, sans-serif; 
+}
+.bottomb{
+	font-size: 25px;
+	font: bold;
+	width: 700px;
+	padding-bottom: 80px;
+}
+.table{
+	margin-top: 150px;
+	margin-left: 40%;
+	font-size: 20px;
+}
+.table2{
+	margin-top: 200px;
+	margin-left: 20%;
+}
+.tt{
+	font-size:40px; 
+	margin: 100px;
+	margin-left: 35%;
+	font-family: 'Dancing Script', cursive;
+}
+
+
+
+
+
+
